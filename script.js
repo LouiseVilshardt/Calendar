@@ -28,16 +28,16 @@ const renderCalendar = () => {
   const nextDays = 7 - lastDayIndex - 1;
 
   const months = [
-    "January",
-    "February",
-    "March",
+    "Januar",
+    "Februar",
+    "Marts",
     "April",
-    "May",
-    "June",
-    "July",
+    "Maj",
+    "Juni",
+    "Juli",
     "August",
     "September",
-    "October",
+    "Oktober",
     "November",
     "December",
   ];
